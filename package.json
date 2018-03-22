@@ -4,6 +4,7 @@
   "description": "",
   "main": "ampel.js",
   "dependencies": {
+    "gpio": "^0.2.7",
     "sqs-consumer": "^3.8.0"
   },
   "devDependencies": {},
@@ -14,8 +15,8 @@
     "type": "git",
     "url": "git+https://github.com/tobitux/ampel.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Tobias Knapp",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/tobitux/ampel/issues"
   },
